@@ -1,0 +1,74 @@
+ 	p{	color:blue;
+ 		font-size:20px;
+		width:800px;
+		line-height: 180%;
+		text-align: justify;
+
+
+
+	}
+	img {
+	
+	    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    
+      border-radius: 8px;
+}
+
+
+
+	h1{
+		color: red;
+		font-size:36px;
+		text-align: center;
+		text-decoration: underline;
+		
+
+
+	}
+
+	h2{
+		color: purple;
+		font-size:30px;
+		text-align: center;
+		text-decoration: underline;
+		
+		
+
+		}
+
+	
+
+	#highlight
+	{
+
+		background-color:yellow;
+		text-decoration: underline;
+		text-align: center;
+
+	}
+	h2.subheadings
+	{
+		text-align: center;
+		font-size-adjust:78px;
+	}
+	.background
+	{
+
+		background-color:pink;
+		opacity: 6;
+		font-style:italic;
+		font-weight:bold;
+	}
+	#ordered
+	{
+		color: green;
+	}
+	li, #ordered
+	{
+		background-color: pink;
+		opacity: 8;
+		color: blue;
+		
+	}
